@@ -1,2 +1,2 @@
 # git-training
-git勉強会
+git勉強会 
